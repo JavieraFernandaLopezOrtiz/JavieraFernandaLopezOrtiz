@@ -1,44 +1,34 @@
-<!-- README de perfil visual de Javiera Fernanda López Ortiz -->
+<!-- README tipo Hero para Javiera Fernanda López Ortiz -->
+<table>
+ <tr>
+<!-- Columna de texto -->
+ <td valign="middle" width="60%">
+   <h1> ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, soy Javiera López Ortiz</h1>
+  <h3>Desarrolladora Web y entusiasta de la programación. Aprendiendo constantemente 🚀</h3>
 
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Javiera Fernanda López Ortiz
-</h1>
-
-<h3 align="center">
-  Desarrolladora web y entusiasta de la programación. Aprendiendo constantemente 🚀
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JavieraFernandaLopezOrtiz&label=Profile%20views&color=0e75b6&style=flat" alt="visitas al perfil" />
-</p>
-
-<!-- GIF o imagen a la derecha -->
-<p align="right">
-  <!-- Reemplaza el src por la URL de tu imagen/GIF -->
-  <img src="TU_IMAGEN_URL_AQUI" alt="Mi Imagen" width="200"/>
-</p>
-
----
-
-<!-- Typing effect animado -->
-<p align="left">
+ <!-- Typing animado -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrolladora+Web;Aprendiendo+Firebase;Siempre+aprendiendo&center=true&width=450&height=50&color=0dd1d1" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrolladora+Web;Aprendiendo+Firebase;Siempre+aprendiendo&center=true&width=400&height=50&color=0dd1d1" alt="typing" />
   </a>
-</p>
 
----
-
-## 🔗 Conéctate conmigo
-
-<p align="left">
+<!-- Badges / enlaces -->
+  <p>
   <a href="https://www.linkedin.com/in/javiera-lopez-ortiz/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="linkedin" height="28" width="28"/>
+  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="linkedin" height="28" width="28"/>
+   </a>
+   <a href="mailto:lopezortizjavierafernanda@gmail.com" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="mail" height="28" width="28"/>
   </a>
-  <a href="mailto:lopezortizjavierafernanda@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="mail" height="28" width="28"/>
-  </a>
-</p>
+   </p>
+  </td>
+
+  <!-- Columna de imagen/GIF -->
+<td valign="middle" width="40%">
+ <!-- Reemplaza TU_IMAGEN_URL_AQUI con tu imagen/GIF -->
+  <img src="stitch.jpg" alt="Mi Imagen" width="200" />
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,9 +54,8 @@
 
 ## 📂 Proyectos destacados
 
-- **[EcoRastro](https://github.com/lukitasdtd/EcoRastro)** 
-- :seedling: Proyecto de desarrollo web para gestión ambiental y crear comunidad , usando JavaScript, Node.js, Express y MongoDB. :seedling:
-  
+- **[EcoRastro](https://github.com/lukitasdtd/EcoRastro)** — Proyecto de desarrollo web para gestión ambiental, usando JavaScript, Node.js, Express y MongoDB.
+
 ---
 
 ## 🌱 Actualmente estoy
